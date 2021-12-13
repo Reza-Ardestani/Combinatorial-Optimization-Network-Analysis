@@ -1,4 +1,4 @@
-In this mini project we want to achieve: 
+In this mini project we want to: 
 - Sovle the classic 9*9 Sudoku problem using *Interger Programming*
 - Send/Recieved data to/from *GAMS* software using *Python AIP*
 ----------------------
