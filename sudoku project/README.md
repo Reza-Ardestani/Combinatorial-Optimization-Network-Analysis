@@ -10,6 +10,7 @@ For getting more insight about the mathematical model you can read the report fi
 2. Send/Recieved data to/from *GAMS* software using *Python AIP*
 
 [Link to the official documentation of the gams software and its python API](https://www.gams.com/33/docs/API_PY_TUTORIAL.html)
+
 [If you have a different version python check this tutorial out to setup another version of py on your local machine without causing any conflict](https://www.gams.com/33/docs/API_PY_TUTORIAL.html)
 
 
