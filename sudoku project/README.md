@@ -15,3 +15,5 @@ For getting more insight about the mathematical model you can read the report fi
 Special thanks to the auther of Refrence file.
 
 Feel free to open an Isssue or send a Pull request. 
+
+You might need a license for GAMS and there is a procedure to buy it with discount, to the best of my knowledge.
