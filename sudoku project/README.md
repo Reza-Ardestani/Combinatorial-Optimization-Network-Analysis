@@ -7,7 +7,11 @@ In this mini project we want to:
 For getting more insight about the mathematical model you can read the report file.
 "su.gms" file is the implementaion a sudoku with GAMS software. Each line has a comment for better navigation through the code.
 
-2. Send/Recieved data to/from *GAMS* software using *Python & Excel*
+
+
+2. Send/Recieved data to/from *GAMS* software using *Python & Excel* 
+
+![Data Flow Diagram](DFD.PNG "Data Flow")
 
 
 
