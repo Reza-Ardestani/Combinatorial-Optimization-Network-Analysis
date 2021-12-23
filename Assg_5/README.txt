@@ -1,1 +1,1 @@
-Special thanks to @mohammad-bornosi who helped me to setting up GAMS-Python API.
+Special thanks to @mohammad-bornosi who helped me to set up GAMS-Python API.
