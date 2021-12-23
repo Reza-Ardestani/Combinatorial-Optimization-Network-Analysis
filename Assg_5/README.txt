@@ -1,0 +1,1 @@
+Special thanks to @mohammad-bornosi who helped me to setting up GAMS-Python API.
