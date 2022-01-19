@@ -1,6 +1,7 @@
 option MINLP = BARON ;
 option optcr = 0;
 option intvarUp = 0;
+option reslim = 1000 ; 
 
 set
 * i: # of shares in our dataset
@@ -18,12 +19,7 @@ Parameter
     upper(i)
     lower(i);
 
-$GDXIN C:\\Users\\Mohamadreza.a\\Music\\index_tracking_problem\\g1.gdx
-*$GDXIN C:\\Users\\Mohamadreza.a\\Downloads\\course_scheduling\\gdxincname_02.gdx
-*$GDXIN C:\\Users\\Lenovo\\Documents\\GAMSStudio\\workspace\\course_scheduling\\gdxincname_01.gdx
-*$GDXIN C:\\Users\\Lenovo\\Documents\\GAMSStudio\\workspace\\course_scheduling\\gdxincname_02.gdx
-*$GDXIN %gdxincname_01%
-*$GDXIN %gdxincname_02%
+$GDXIN %gdxincname%
 $LOAD i, t, dum, r, ir, c, upper, lower
 $GDXIN
 
